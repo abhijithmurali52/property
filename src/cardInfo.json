@@ -1,0 +1,104 @@
+{
+  "cardInfo":[
+  {
+    "id":1,
+    "Pic":"images/ppt1.jpg",
+    "Name":" RCE Theaters-9099 S beckford Dr,Henderson,NC 27536",
+    "Room": 3,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "Area": 1500,
+    "Price":"$2,200,000",
+    "About":"This charming property is located at RCE Theaters-9099 S Beckford Dr, Henderson, NC 27536. It offers 3 spacious rooms, 3 bedrooms, and 2 bathrooms across 1500 square feet. Priced at $2,200,000, it's an attractive investment opportunity with a captivating image to match."
+  },
+  {
+    "id":2,
+    "Pic":"images/ppt2.jpeg",
+    "Name":"123 Main Street, Apartment 4B, Springfield, IL 62701",
+    "Room": 5,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "Area": 2000,
+    "Price":"$1,000,000",
+    "About":"Situated at 123 Main Street, Apartment 4B, Springfield, IL 62701, this property boasts 5 rooms, 3 bedrooms, and 1 bathroom within 2000 square feet. Priced at $1,000,000, it's an excellent choice for those seeking a spacious and comfortable home."
+  },
+  {
+    "id":3,
+    "Pic":"images/ppt3.jpeg",
+    "Name":"456 Business Park Road, Suite 200, Cityville, CA 90210",
+    "Room": 4,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "Area": 2500,
+    "Price":"$650,000",
+    "About":"Located at 456 Business Park Road, Suite 200, Cityville, CA 90210, this property offers 4 rooms, 3 bedrooms, and 1 bathroom spread across 2500 square feet. At $650,000, it presents an affordable option in a desirable area."
+  },
+  {
+    "id":4,
+    "Pic":"images/ppt4.jpeg",
+    "Name":"789 Shopping Avenue, Shop #23, Shopville, NY 10001",
+    "Room": 2,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "Area": 2000,
+    "Price":"$3,500,000",
+    "About":"Nestled at 789 Shopping Avenue, Shop #23, Shopville, NY 10001, this property features 2 rooms, 3 bedrooms, and 3 bathrooms within 2000 square feet. Priced at $3,500,000, it's a luxurious choice for those seeking a premium residence."
+  },
+  {
+    "id":5,
+    "Pic":"images/ppt5.jpeg",
+    "Name":"101 Warehouse Lane, Warehouse #5, Storageville, TX 77002",
+    "Room": 3,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "Area": 1700,
+    "Price":"$850,000 ",
+    "About":"This property at 101 Warehouse Lane, Warehouse #5, Storageville, TX 77002, offers 3 rooms, 3 bedrooms, and 2 bathrooms in 1700 square feet. With a price of $850,000, it provides a unique living space in an industrial setting"
+  },
+  {
+    "id":6,
+    "Pic":"images/ppt6.jpeg",
+    "Name":" 555 Hospitality Avenue, Room #101, Vacation Springs, AZ 85001",
+    "Room": 2,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "Area": 2200,
+    "Price":"$1,250,000",
+    "About":"555 Hospitality Avenue, Room #101, Vacation Springs, AZ 85001, is the address of this property, which includes 2 rooms, 3 bedrooms, and 1 bathroom within 2200 square feet. Priced at $1,250,000, it offers a comfortable and serene living environment."
+    
+  },
+  {
+    "id":7,
+    "Pic":"images/ppt7.jpeg",
+    "Name":" 789 Lakefront Road, Unit #101, Serenity Meadows, FL 56789 ",
+    "Room": 2,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "Area": 3000,
+    "Price":"$1,780,000",
+    "About":"Situated at 789 Lakefront Road, Unit #101, Serenity Meadows, FL 56789, this property features 2 rooms, 1 bedroom, and 1 bathroom across 3000 square feet. Priced at $1,780,000, it provides a peaceful retreat with ample space."
+  },
+  {
+    "id":8,
+    "Pic":"images/ppt8.jpeg",
+    "Name":"567 Harbor View Drive, Suite #789, Bayfront City, NY 12345",
+    "Room": 2,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "Area": 2600,
+    "Price":"$1,450,000",
+    "About":"567 Harbor View Drive, Suite #789, Bayfront City, NY 12345, is the location of this property, which offers 2 rooms, 3 bedrooms, and 1 bathroom within 2600 square feet. Priced at $1,450,000, it's an attractive option for those seeking waterfront living."
+  },
+  {
+    "id":9,
+    "Pic":"images/ppt9.jpeg",
+    "Name":" 123 Pine Street, Apartment #456, Forestville, CA 95436",
+    "Room": 4,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "Area": 3100,
+    "Price":"$2,000,000",
+    "About":"This property is situated at 123 Pine Street, Apartment #456, Forestville, CA 95436. It offers 4 rooms, 3 bedrooms, and 3 bathrooms across 3100 square feet. Priced at $2,000,000, it provides spacious and comfortable living in a picturesque setting."
+  }
+]
+}
